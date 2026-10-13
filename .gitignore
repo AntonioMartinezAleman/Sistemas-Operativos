@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Editores / IDE
+.vscode/
+.idea/
+.claude/
+
+# Compilación C/C++
+*.o
+*.out
+a.out
+*.exe
+build/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Verilog (simulación)
+*.vvp
+
+# Comprimidos de entrega
+*.tgz
+*.tar.gz
+*.zip
